@@ -1,5 +1,5 @@
 # Olympic Games Analysis
-Analysis of the history of the Olympic Games 1896-2016 with visualization.
+Analysis of the Olympic Games history 1896-2016 with visualization.
 
 1. Check data for outliers and overall quality. 
 	Answer the questions: 
